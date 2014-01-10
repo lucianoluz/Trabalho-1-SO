@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=trabalho1so
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/trabalho1so
+CND_ARTIFACT_NAME_Debug=trabalho-1-so
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/trabalho-1-so
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=trabalho1so.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/trabalho1so.tar
+CND_PACKAGE_NAME_Debug=trabalho-1-so.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/trabalho-1-so.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=trabalho1so
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/trabalho1so
+CND_ARTIFACT_NAME_Release=trabalho-1-so
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/trabalho-1-so
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=trabalho1so.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/trabalho1so.tar
+CND_PACKAGE_NAME_Release=trabalho-1-so.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/trabalho-1-so.tar
 #
 # include compiler specific variables
 #

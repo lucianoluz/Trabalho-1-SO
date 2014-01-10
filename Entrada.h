@@ -17,11 +17,13 @@ public:
     virtual ~Entrada();
     int getChave();
     string getValor();
-    setChave();
-    setValor();
+    void setChave(int chave);
+    void setValor(string valor);
+    
 private:
     int chave;
     string valor;
+    
 };
 
 #endif	/* ENTRADA_H */

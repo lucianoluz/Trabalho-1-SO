@@ -11,7 +11,7 @@
 
 Entrada::Entrada() {
     this->chave = 0;
-    this->valor = "";
+    this->valor = "null";
 }
 int Entrada::getChave(){
     return this->chave;
@@ -19,15 +19,16 @@ int Entrada::getChave(){
 string Entrada::getValor(){
     return valor;
 }
-Entrada::setChave(int chave){
+void Entrada::setChave(int chave){
     this->chave = chave;
 }
-Entrada::setValor(string valor){
+void Entrada::setValor(string valor){
     this->valor = valor;
 }
 Entrada::Entrada(const Entrada& orig) {
 }
 
 Entrada::~Entrada() {
+   
 }
 
